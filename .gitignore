@@ -104,6 +104,28 @@ dist
 # vitepress cache directory
 **/.vitepress/cache
 
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+*.egg-info/
+.pytest_cache/
+*.pyc
+
+# Python virtual environments
+.venv/
+virtualenv/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
 # Docusaurus cache and generated files
 .docusaurus
 
