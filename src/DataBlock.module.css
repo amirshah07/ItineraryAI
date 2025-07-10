@@ -1,0 +1,79 @@
+.container {
+    padding: 1rem;
+    width: 100%;
+    max-width: 100%;
+  }
+  
+  .dayCard {
+    margin-bottom: 2rem;
+    padding: 1.5rem;
+    border-radius: 0.75rem;
+    border: 2px solid #fff;
+    background-color: #1f1e1e;
+    transition: all 0.3s;
+  }
+  
+  .dayHeader {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+    border-bottom: 2px solid #fff;
+    padding-bottom: 0.5rem;
+    color: #fff;
+  }
+  
+  .activityCard {
+    border-top: 2px solid #fff;
+    border-bottom: 2px solid #fff; /* Add a line at the bottom of each card */
+    padding: 1rem;
+    transition: all 0.3s;
+    background-color: #1f1e1e;
+    border-radius: 0.75rem;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+    margin-bottom: 1rem; /* Add spacing between activity cards */
+  }
+  
+  .activityCard:last-child {
+    margin-bottom: 0; /* Remove margin from the last activity card */
+  }
+  
+  .activityCard:hover {
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  .activityName {
+    font-size: 1.125rem;
+    font-weight: 600;
+    display: flex;
+    gap: 0.75rem;
+  }
+  
+  .activityInfo {
+    margin-top: 0.5rem;
+    color: #fff;
+  }
+  
+  .activityType {
+    font-size: 0.875rem;
+    opacity: 0.8;
+    color: #fff;
+  }
+  
+  .gridContainer {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+  }
+  
+  @media (min-width: 768px) {
+    .gridContainer {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+  
+  @media (min-width: 1024px) {
+    .gridContainer {
+      grid-template-columns: repeat(3, 1fr);
+    }
+  }
+  
