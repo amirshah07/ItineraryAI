@@ -1,0 +1,1167 @@
+{
+  "popular places": [
+    {
+      "id": "ChIJMxZ-kwQZ2jERdsqftXeWCWI",
+      "name": "Gardens by the Bay",
+      "address": "18 Marina Gardens Dr, Singapore 018953",
+      "location": {
+        "latitude": 1.2815683,
+        "longitude": 103.8636132
+      },
+      "rating": 4.7,
+      "description": "A network of modern greenhouses & waterfront parks containing super trees lined with solar cells.",
+      "hours": [
+        "Monday: 5:00 AM - 2:00 AM",
+        "Tuesday: 5:00 AM - 2:00 AM",
+        "Wednesday: 5:00 AM - 2:00 AM",
+        "Thursday: 5:00 AM - 2:00 AM",
+        "Friday: 5:00 AM - 2:00 AM",
+        "Saturday: 5:00 AM - 2:00 AM",
+        "Sunday: 5:00 AM - 2:00 AM"
+      ],
+      "price_level": "",
+      "types": [
+        "garden",
+        "tourist_attraction",
+        "botanical_garden",
+        "park",
+        "point_of_interest",
+        "establishment"
+      ],
+      "maps_url": "https://maps.google.com/?cid=7064342931399756406"
+    },
+    {
+      "id": "ChIJBTYg1g4Z2jERp_MBbu5erWY",
+      "name": "Merlion Park",
+      "address": "1 Fullerton Rd, Singapore 049213",
+      "location": {
+        "latitude": 1.2867449,
+        "longitude": 103.85438719999999
+      },
+      "rating": 4.6,
+      "description": "The 70-ton merlion statue is one of the city's most iconic sights & is located in this park.",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "price_level": "",
+      "types": [
+        "park",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "maps_url": "https://maps.google.com/?cid=7398674140980442023"
+    },
+    {
+      "id": "ChIJvWDbfRwa2jERgNnTOpAU3-o",
+      "name": "Singapore Botanic Gardens",
+      "address": "1 Cluny Rd, Singapore 259569",
+      "location": {
+        "latitude": 1.3138397,
+        "longitude": 103.8159136
+      },
+      "rating": 4.7,
+      "description": "82-hectare botanical garden with sculptures, a swan lake & significant collection of tropical trees.",
+      "hours": [
+        "Monday: 5:00 AM - 12:00 AM",
+        "Tuesday: 5:00 AM - 12:00 AM",
+        "Wednesday: 5:00 AM - 12:00 AM",
+        "Thursday: 5:00 AM - 12:00 AM",
+        "Friday: 5:00 AM - 12:00 AM",
+        "Saturday: 5:00 AM - 12:00 AM",
+        "Sunday: 5:00 AM - 12:00 AM"
+      ],
+      "price_level": "",
+      "types": [
+        "botanical_garden",
+        "tourist_attraction",
+        "park",
+        "point_of_interest",
+        "establishment"
+      ],
+      "maps_url": "https://maps.google.com/?cid=16924268534376421760"
+    }
+  ],
+  "top attractions": [
+    {
+      "id": "ChIJMxZ-kwQZ2jERdsqftXeWCWI",
+      "name": "Gardens by the Bay",
+      "address": "18 Marina Gardens Dr, Singapore 018953",
+      "location": {
+        "latitude": 1.2815683,
+        "longitude": 103.8636132
+      },
+      "rating": 4.7,
+      "description": "A network of modern greenhouses & waterfront parks containing super trees lined with solar cells.",
+      "hours": [
+        "Monday: 5:00 AM - 2:00 AM",
+        "Tuesday: 5:00 AM - 2:00 AM",
+        "Wednesday: 5:00 AM - 2:00 AM",
+        "Thursday: 5:00 AM - 2:00 AM",
+        "Friday: 5:00 AM - 2:00 AM",
+        "Saturday: 5:00 AM - 2:00 AM",
+        "Sunday: 5:00 AM - 2:00 AM"
+      ],
+      "price_level": "",
+      "types": [
+        "garden",
+        "tourist_attraction",
+        "botanical_garden",
+        "park",
+        "point_of_interest",
+        "establishment"
+      ],
+      "maps_url": "https://maps.google.com/?cid=7064342931399756406"
+    },
+    {
+      "id": "ChIJT4lHCgMZ2jERloDE6WmkdMk",
+      "name": "Supertree Grove",
+      "address": "18 Marina Gardens Dr, Singapore 018953",
+      "location": {
+        "latitude": 1.2819616999999999,
+        "longitude": 103.86390569999999
+      },
+      "rating": 4.7,
+      "description": "Unique vertical gardens resembling towering trees, with large canopies & colorful lights at night.",
+      "hours": [
+        "Monday: 5:00 AM - 2:00 AM",
+        "Tuesday: 5:00 AM - 2:00 AM",
+        "Wednesday: 5:00 AM - 2:00 AM",
+        "Thursday: 5:00 AM - 2:00 AM",
+        "Friday: 5:00 AM - 2:00 AM",
+        "Saturday: 5:00 AM - 2:00 AM",
+        "Sunday: 5:00 AM - 2:00 AM"
+      ],
+      "price_level": "",
+      "types": [
+        "garden",
+        "tourist_attraction",
+        "park",
+        "point_of_interest",
+        "establishment"
+      ],
+      "maps_url": "https://maps.google.com/?cid=14516408273722441878"
+    },
+    {
+      "id": "ChIJOeEf9S2vewIRM0B9a06CKwg",
+      "name": "SkyPark Observation Deck",
+      "address": "10 Bayfront Ave, Singapore 018956",
+      "location": {
+        "latitude": 1.2852044,
+        "longitude": 103.8610313
+      },
+      "rating": 4.6,
+      "description": "Hotel's observation deck on the 57th floor offering panoramic city views & 2 upscale restaurants.",
+      "hours": [
+        "Monday: 10:00 AM - 4:30 PM, 5:00 - 10:00 PM",
+        "Tuesday: 10:00 AM - 4:30 PM, 5:00 - 10:00 PM",
+        "Wednesday: 10:00 AM - 4:30 PM, 5:00 - 10:00 PM",
+        "Thursday: 10:00 AM - 4:30 PM, 5:00 - 10:00 PM",
+        "Friday: 10:00 AM - 4:30 PM, 5:00 - 10:00 PM",
+        "Saturday: 10:00 AM - 4:30 PM, 5:00 - 10:00 PM",
+        "Sunday: 10:00 AM - 4:30 PM, 5:00 - 10:00 PM"
+      ],
+      "price_level": "",
+      "types": [
+        "observation_deck",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "maps_url": "https://maps.google.com/?cid=588707449624412211"
+    }
+  ],
+  "tourist attractions": [
+    {
+      "id": "ChIJT4lHCgMZ2jERloDE6WmkdMk",
+      "name": "Supertree Grove",
+      "address": "18 Marina Gardens Dr, Singapore 018953",
+      "location": {
+        "latitude": 1.2819616999999999,
+        "longitude": 103.86390569999999
+      },
+      "rating": 4.7,
+      "description": "Unique vertical gardens resembling towering trees, with large canopies & colorful lights at night.",
+      "hours": [
+        "Monday: 5:00 AM - 2:00 AM",
+        "Tuesday: 5:00 AM - 2:00 AM",
+        "Wednesday: 5:00 AM - 2:00 AM",
+        "Thursday: 5:00 AM - 2:00 AM",
+        "Friday: 5:00 AM - 2:00 AM",
+        "Saturday: 5:00 AM - 2:00 AM",
+        "Sunday: 5:00 AM - 2:00 AM"
+      ],
+      "price_level": "",
+      "types": [
+        "garden",
+        "tourist_attraction",
+        "park",
+        "point_of_interest",
+        "establishment"
+      ],
+      "maps_url": "https://maps.google.com/?cid=14516408273722441878"
+    },
+    {
+      "id": "ChIJzVHFNqkZ2jERboLN2YrltH8",
+      "name": "Singapore Flyer",
+      "address": "30 Raffles Ave., Singapore 039803",
+      "location": {
+        "latitude": 1.2892987999999999,
+        "longitude": 103.86313679999999
+      },
+      "rating": 4.6,
+      "description": "Huge observation wheel opened in 2008 for views of the city plus high tea & butler-serviced flights.",
+      "hours": [
+        "Monday: 10:00 AM - 10:00 PM",
+        "Tuesday: 10:00 AM - 10:00 PM",
+        "Wednesday: 10:00 AM - 10:00 PM",
+        "Thursday: 10:00 AM - 10:00 PM",
+        "Friday: 10:00 AM - 10:00 PM",
+        "Saturday: 10:00 AM - 10:00 PM",
+        "Sunday: 10:00 AM - 10:00 PM"
+      ],
+      "price_level": "",
+      "types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "maps_url": "https://maps.google.com/?cid=9202232323147137646"
+    },
+    {
+      "id": "ChIJOeEf9S2vewIRM0B9a06CKwg",
+      "name": "SkyPark Observation Deck",
+      "address": "10 Bayfront Ave, Singapore 018956",
+      "location": {
+        "latitude": 1.2852044,
+        "longitude": 103.8610313
+      },
+      "rating": 4.6,
+      "description": "Hotel's observation deck on the 57th floor offering panoramic city views & 2 upscale restaurants.",
+      "hours": [
+        "Monday: 10:00 AM - 4:30 PM, 5:00 - 10:00 PM",
+        "Tuesday: 10:00 AM - 4:30 PM, 5:00 - 10:00 PM",
+        "Wednesday: 10:00 AM - 4:30 PM, 5:00 - 10:00 PM",
+        "Thursday: 10:00 AM - 4:30 PM, 5:00 - 10:00 PM",
+        "Friday: 10:00 AM - 4:30 PM, 5:00 - 10:00 PM",
+        "Saturday: 10:00 AM - 4:30 PM, 5:00 - 10:00 PM",
+        "Sunday: 10:00 AM - 4:30 PM, 5:00 - 10:00 PM"
+      ],
+      "price_level": "",
+      "types": [
+        "observation_deck",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "maps_url": "https://maps.google.com/?cid=588707449624412211"
+    },
+    {
+      "id": "ChIJVSYjJKIZ2jERpRFinATD52s",
+      "name": "Fort Canning Park",
+      "address": "Singapore",
+      "location": {
+        "latitude": 1.2943875999999999,
+        "longitude": 103.8458033
+      },
+      "rating": 4.5,
+      "description": "A well-known historical landmark, this grassy hilltop park hosts events such as concerts & plays.",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "price_level": "",
+      "types": [
+        "park",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "maps_url": "https://maps.google.com/?cid=7775397706249408933"
+    },
+    {
+      "id": "ChIJWbbHWvAb2jERpIJ56UdMj_E",
+      "name": "Fort Siloso",
+      "address": "Siloso Rd, Singapore 099981",
+      "location": {
+        "latitude": 1.259363,
+        "longitude": 103.8086242
+      },
+      "rating": 4.5,
+      "description": "Restored World War II coastal fort housing a military museum with interactive exhibits & tours.",
+      "hours": [
+        "Monday: 10:00 AM - 6:00 PM",
+        "Tuesday: 10:00 AM - 6:00 PM",
+        "Wednesday: 10:00 AM - 6:00 PM",
+        "Thursday: 10:00 AM - 6:00 PM",
+        "Friday: 10:00 AM - 6:00 PM",
+        "Saturday: 10:00 AM - 6:00 PM",
+        "Sunday: 10:00 AM - 6:00 PM"
+      ],
+      "price_level": "",
+      "types": [
+        "tourist_attraction",
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ],
+      "maps_url": "https://maps.google.com/?cid=17406214956553700004"
+    },
+    {
+      "id": "ChIJOScA0tkZ2jERRqSy4_FqfD4",
+      "name": "Singapore Skyline View",
+      "address": "10 Bayfront Ave, Marina Bay Sands, Singapore 018956",
+      "location": {
+        "latitude": 1.2842867,
+        "longitude": 103.85842749999999
+      },
+      "rating": 4.8,
+      "description": "",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "price_level": "",
+      "types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "maps_url": "https://maps.google.com/?cid=4502591314603451462"
+    },
+    {
+      "id": "ChIJ_b6nTlIZ2jERk2yCZsyN0io",
+      "name": "Pancur Larangan",
+      "address": "Fort Canning Link, Singapore",
+      "location": {
+        "latitude": 1.2943672,
+        "longitude": 103.84539459999999
+      },
+      "rating": 4.7,
+      "description": "",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "price_level": "",
+      "types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "maps_url": "https://maps.google.com/?cid=3085684603734879379"
+    },
+    {
+      "id": "ChIJ1_vobQ0Z2jER8clToFO8Zg0",
+      "name": "Singapore DUCKtours",
+      "address": "3 Temasek Boulevard #01-K8, Tower 2 Suntec City, Singapore 038983",
+      "location": {
+        "latitude": 1.2960653,
+        "longitude": 103.85932369999999
+      },
+      "rating": 4.4,
+      "description": "",
+      "hours": [
+        "Monday: 9:00 AM - 6:00 PM",
+        "Tuesday: 9:00 AM - 6:00 PM",
+        "Wednesday: 9:00 AM - 6:00 PM",
+        "Thursday: 9:00 AM - 6:00 PM",
+        "Friday: 9:00 AM - 6:00 PM",
+        "Saturday: 9:00 AM - 6:00 PM",
+        "Sunday: 9:00 AM - 6:00 PM"
+      ],
+      "price_level": "",
+      "types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "maps_url": "https://maps.google.com/?cid=965666237475703281"
+    },
+    {
+      "id": "ChIJ4ddWE6AZ2jERsWZK8-xeBaE",
+      "name": "Clarke Quay Jetty",
+      "address": "Singapore",
+      "location": {
+        "latitude": 1.2899373,
+        "longitude": 103.84622879999999
+      },
+      "rating": 4.5,
+      "description": "",
+      "hours": [
+        "Monday: 9:00 AM - 11:00 PM",
+        "Tuesday: 9:00 AM - 11:00 PM",
+        "Wednesday: 9:00 AM - 11:00 PM",
+        "Thursday: 9:00 AM - 11:00 PM",
+        "Friday: 9:00 AM - 11:00 PM",
+        "Saturday: 9:00 AM - 11:00 PM",
+        "Sunday: 9:00 AM - 11:00 PM"
+      ],
+      "price_level": "",
+      "types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "maps_url": "https://maps.google.com/?cid=11602784386776983217"
+    },
+    {
+      "id": "ChIJxxCWbKIZ2jERIKWEtMtWTBE",
+      "name": "Fort Gate",
+      "address": "20 Raffles Avenue, Singapore 039805",
+      "location": {
+        "latitude": 1.2950462999999999,
+        "longitude": 103.84586650000001
+      },
+      "rating": 4.4,
+      "description": "",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "price_level": "",
+      "types": [
+        "historical_landmark",
+        "monument",
+        "historical_place",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "maps_url": "https://maps.google.com/?cid=1246466629781726496"
+    }
+  ],
+  "points of interest": [
+    {
+      "id": "ChIJBTYg1g4Z2jERp_MBbu5erWY",
+      "name": "Merlion Park",
+      "address": "1 Fullerton Rd, Singapore 049213",
+      "location": {
+        "latitude": 1.2867449,
+        "longitude": 103.85438719999999
+      },
+      "rating": 4.6,
+      "description": "The 70-ton merlion statue is one of the city's most iconic sights & is located in this park.",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "price_level": "",
+      "types": [
+        "park",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "maps_url": "https://maps.google.com/?cid=7398674140980442023"
+    },
+    {
+      "id": "ChIJnXwAOKAZ2jERAs-MHs1aDgI",
+      "name": "Clarke Quay",
+      "address": "3 River Valley Rd, Singapore 179024",
+      "location": {
+        "latitude": 1.2906024,
+        "longitude": 103.84647419999999
+      },
+      "rating": 4.5,
+      "description": "Mall with restaurants & nightlife in a redeveloped, 19th-century commercial district by the river.",
+      "hours": [
+        "Monday: 10:00 AM - 11:00 PM",
+        "Tuesday: 10:00 AM - 11:00 PM",
+        "Wednesday: 10:00 AM - 11:00 PM",
+        "Thursday: 10:00 AM - 11:00 PM",
+        "Friday: 10:00 AM - 11:00 PM",
+        "Saturday: 10:00 AM - 11:00 PM",
+        "Sunday: 10:00 AM - 11:00 PM"
+      ],
+      "price_level": "",
+      "types": [
+        "shopping_mall",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "maps_url": "https://maps.google.com/?cid=148155674777145090"
+    },
+    {
+      "id": "ChIJPYrvewEZ2jERK-pztVWcDig",
+      "name": "Flower Dome",
+      "address": "18 Marina Gardens Dr, Singapore 018953",
+      "location": {
+        "latitude": 1.2846292,
+        "longitude": 103.86469749999999
+      },
+      "rating": 4.7,
+      "description": "Gigantic air-conditioned glass greenhouse offering themed gardens with many exotic plants.",
+      "hours": [
+        "Monday: 9:00 AM - 9:00 PM",
+        "Tuesday: 9:00 AM - 9:00 PM",
+        "Wednesday: 9:00 AM - 9:00 PM",
+        "Thursday: 9:00 AM - 9:00 PM",
+        "Friday: 9:00 AM - 9:00 PM",
+        "Saturday: 9:00 AM - 9:00 PM",
+        "Sunday: 9:00 AM - 9:00 PM"
+      ],
+      "price_level": "",
+      "types": [
+        "garden",
+        "tourist_attraction",
+        "park",
+        "point_of_interest",
+        "establishment"
+      ],
+      "maps_url": "https://maps.google.com/?cid=2886416303121492523"
+    }
+  ],
+  "landmarks": [
+    {
+      "id": "ChIJC3zPG5UZ2jERIhw4H122ays",
+      "name": "Standbeeld van Luitenant-gouverneur van Bencoolen Sir T Stamford Bingley R",
+      "address": "1 Empress Pl, Singapore 179555",
+      "location": {
+        "latitude": 1.2877006000000002,
+        "longitude": 103.8507688
+      },
+      "rating": 5,
+      "description": "",
+      "hours": [],
+      "price_level": "",
+      "types": [
+        "historical_landmark",
+        "historical_place",
+        "point_of_interest",
+        "establishment"
+      ],
+      "maps_url": "https://maps.google.com/?cid=3128794877210926114"
+    },
+    {
+      "id": "ChIJA2UIQWoZ2jERUAtm1YWJm4A",
+      "name": "Ho Chi Minh Monument",
+      "address": "1 Empress Pl, Singapore 179555",
+      "location": {
+        "latitude": 1.286665,
+        "longitude": 103.851862
+      },
+      "rating": 4.8,
+      "description": "",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "price_level": "",
+      "types": [
+        "historical_landmark",
+        "historical_place",
+        "point_of_interest",
+        "establishment"
+      ],
+      "maps_url": "https://maps.google.com/?cid=9267151866148817744"
+    },
+    {
+      "id": "ChIJS5qa9RwZ2jERXdOUCDZMaoY",
+      "name": "Queen Elizabeth Walk",
+      "address": "Esplanade Dr, Singapore",
+      "location": {
+        "latitude": 1.2888144,
+        "longitude": 103.8535311
+      },
+      "rating": 4.8,
+      "description": "",
+      "hours": [],
+      "price_level": "",
+      "types": [
+        "historical_landmark",
+        "historical_place",
+        "point_of_interest",
+        "establishment"
+      ],
+      "maps_url": "https://maps.google.com/?cid=9685637743569589085"
+    }
+  ],
+  "museums": [
+    {
+      "id": "ChIJnWdQKQQZ2jERScXuKeFHyIE",
+      "name": "ArtScience Museum",
+      "address": "6 Bayfront Ave, Singapore 018974",
+      "location": {
+        "latitude": 1.2862738,
+        "longitude": 103.8592663
+      },
+      "rating": 4.5,
+      "description": "Design, science & technology exhibits in a distinctive, modern, flower-shaped building.",
+      "hours": [
+        "Monday: 10:00 AM - 7:00 PM",
+        "Tuesday: 10:00 AM - 7:00 PM",
+        "Wednesday: 10:00 AM - 7:00 PM",
+        "Thursday: 10:00 AM - 7:00 PM",
+        "Friday: 10:00 AM - 9:00 PM",
+        "Saturday: 10:00 AM - 9:00 PM",
+        "Sunday: 10:00 AM - 7:00 PM"
+      ],
+      "price_level": "",
+      "types": [
+        "museum",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "maps_url": "https://maps.google.com/?cid=9351803658631562569"
+    },
+    {
+      "id": "ChIJFQzeR6cZ2jERgM6--iWeY-U",
+      "name": "National Gallery Singapore",
+      "address": "Singapore 178957",
+      "location": {
+        "latitude": 1.2902217,
+        "longitude": 103.85151669999999
+      },
+      "rating": 4.6,
+      "description": "Museum of Singapore & Southeast Asian arts housed in a restored municipal building dating to 1929.",
+      "hours": [
+        "Monday: 10:00 AM - 7:00 PM",
+        "Tuesday: 10:00 AM - 7:00 PM",
+        "Wednesday: 10:00 AM - 7:00 PM",
+        "Thursday: 10:00 AM - 7:00 PM",
+        "Friday: 10:00 AM - 7:00 PM",
+        "Saturday: 10:00 AM - 7:00 PM",
+        "Sunday: 10:00 AM - 7:00 PM"
+      ],
+      "price_level": "",
+      "types": [
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ],
+      "maps_url": "https://maps.google.com/?cid=16529228943337639552"
+    },
+    {
+      "id": "ChIJD1u-EaMZ2jERaLhNfFkR45I",
+      "name": "National Museum of Singapore",
+      "address": "93 Stamford Rd, Singapore 178897",
+      "location": {
+        "latitude": 1.296613,
+        "longitude": 103.84850910000002
+      },
+      "rating": 4.6,
+      "description": "Classical & modern architecture converge in this large, vibrant museum of Singaporean artifacts.",
+      "hours": [
+        "Monday: 10:00 AM - 6:30 PM",
+        "Tuesday: 10:00 AM - 6:30 PM",
+        "Wednesday: 10:00 AM - 6:30 PM",
+        "Thursday: 10:00 AM - 6:30 PM",
+        "Friday: 10:00 AM - 6:30 PM",
+        "Saturday: 10:00 AM - 6:30 PM",
+        "Sunday: 10:00 AM - 6:30 PM"
+      ],
+      "price_level": "",
+      "types": [
+        "tourist_attraction",
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ],
+      "maps_url": "https://maps.google.com/?cid=10584322625286027368"
+    }
+  ],
+  "historical sites": [
+    {
+      "id": "ChIJPzQ2GKEZ2jERnUTk4vYhg34",
+      "name": "Civil Defence Heritage Gallery",
+      "address": "62 Hill St, Singapore 179367",
+      "location": {
+        "latitude": 1.2919146,
+        "longitude": 103.849146
+      },
+      "rating": 4.6,
+      "description": "Historic firetrucks & equipment are displayed at this small civil defense museum in a fire station.",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: 10:00 AM - 5:00 PM",
+        "Wednesday: 10:00 AM - 5:00 PM",
+        "Thursday: 10:00 AM - 5:00 PM",
+        "Friday: 10:00 AM - 5:00 PM",
+        "Saturday: 10:00 AM - 5:00 PM",
+        "Sunday: 10:00 AM - 5:00 PM"
+      ],
+      "price_level": "",
+      "types": [
+        "tourist_attraction",
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ],
+      "maps_url": "https://maps.google.com/?cid=9116167414980297885"
+    },
+    {
+      "id": "ChIJ_SziFwkZ2jER_bn7AT-VVso",
+      "name": "Fullerton Square",
+      "address": "Fullerton Square, Singapore",
+      "location": {
+        "latitude": 1.2854537,
+        "longitude": 103.85311139999999
+      },
+      "rating": 4.6,
+      "description": "",
+      "hours": [],
+      "price_level": "",
+      "types": [
+        "historical_landmark",
+        "historical_place",
+        "point_of_interest",
+        "establishment"
+      ],
+      "maps_url": "https://maps.google.com/?cid=14580004941507312125"
+    },
+    {
+      "id": "ChIJdV9ag6cZ2jER9a31HQ2jN5w",
+      "name": "Indian National Army Historic Marker",
+      "address": "1 Esplanade Dr, Singapore",
+      "location": {
+        "latitude": 1.2893846,
+        "longitude": 103.853748
+      },
+      "rating": 4.6,
+      "description": "",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "price_level": "",
+      "types": [
+        "monument",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "maps_url": "https://maps.google.com/?cid=11256645070368386549"
+    }
+  ],
+  "hip places": [
+    {
+      "id": "ChIJ83SVew0Z2jERsfl0iOB4Pco",
+      "name": "My Awesome Cafe",
+      "address": "202 Telok Ayer St, Singapore 068639",
+      "location": {
+        "latitude": 1.2801094000000002,
+        "longitude": 103.8472056
+      },
+      "rating": 4.7,
+      "description": "Handcrafted salads & sandwiches, plus wine & spirits, in a cosy spot with repurposed decor.",
+      "hours": [
+        "Monday: 11:00 AM - 11:00 PM",
+        "Tuesday: 11:00 AM - 11:00 PM",
+        "Wednesday: 11:00 AM - 12:00 AM",
+        "Thursday: 11:00 AM - 12:00 AM",
+        "Friday: 11:00 AM - 12:00 AM",
+        "Saturday: 10:30 AM - 11:30 PM",
+        "Sunday: 10:30 AM - 10:00 PM"
+      ],
+      "price_level": "PRICE_LEVEL_MODERATE",
+      "types": [
+        "restaurant",
+        "wine_bar",
+        "brunch_restaurant",
+        "cafe",
+        "liquor_store",
+        "wedding_venue",
+        "bar",
+        "event_venue",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "maps_url": "https://maps.google.com/?cid=14572936874998167985"
+    },
+    {
+      "id": "ChIJZyU5oKUZ2jERGP3wEWHhjyQ",
+      "name": "Tess Bar & Kitchen, Singapore",
+      "address": "36 Seah St, Singapore 188392",
+      "location": {
+        "latitude": 1.2959228,
+        "longitude": 103.8549642
+      },
+      "rating": 4.6,
+      "description": "",
+      "hours": [
+        "Monday: 4:00 PM - 1:00 AM",
+        "Tuesday: 4:00 PM - 1:00 AM",
+        "Wednesday: 4:00 PM - 1:00 AM",
+        "Thursday: 4:00 PM - 1:00 AM",
+        "Friday: 4:00 PM - 3:00 AM",
+        "Saturday: 12:00 PM - 3:00 AM",
+        "Sunday: 12:00 PM - 1:00 AM"
+      ],
+      "price_level": "PRICE_LEVEL_MODERATE",
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "maps_url": "https://maps.google.com/?cid=2634572114064112920"
+    },
+    {
+      "id": "ChIJZXLHt_AZ2jERHp7HWpnRbuo",
+      "name": "Brooklyn Bar",
+      "address": "14 Ann Siang Rd, #01-01, Singapore 069694",
+      "location": {
+        "latitude": 1.2812453000000001,
+        "longitude": 103.8455291
+      },
+      "rating": 4.8,
+      "description": "",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: 5:00 PM - 12:00 AM",
+        "Wednesday: 5:00 PM - 12:00 AM",
+        "Thursday: 5:00 PM - 12:00 AM",
+        "Friday: 5:00 PM - 12:00 AM",
+        "Saturday: 5:00 PM - 12:00 AM",
+        "Sunday: Closed"
+      ],
+      "price_level": "",
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "maps_url": "https://maps.google.com/?cid=16892669708896542238"
+    }
+  ],
+  "best local food": [
+    {
+      "id": "ChIJzUZNrgsZ2jER2epSYaG6Gyg",
+      "name": "Restaurant Ibid",
+      "address": "18 N Canal Rd, Singapore 048830",
+      "location": {
+        "latitude": 1.2864337,
+        "longitude": 103.8483365
+      },
+      "rating": 4.9,
+      "description": "Chinese tasting menu served in an acclaimed special-occasion destination with minimalist decor.",
+      "hours": [
+        "Monday: Closed",
+        "Tuesday: 6:30 - 10:30 PM",
+        "Wednesday: 6:30 - 10:30 PM",
+        "Thursday: 6:30 - 10:30 PM",
+        "Friday: 6:30 - 10:30 PM",
+        "Saturday: 6:30 - 10:30 PM",
+        "Sunday: Closed"
+      ],
+      "price_level": "",
+      "types": [
+        "asian_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "maps_url": "https://maps.google.com/?cid=2890108788173630169"
+    },
+    {
+      "id": "ChIJRcflqKQZ2jERuY1ZdhLrkkE",
+      "name": "XYCD @Circular Road [\u5c0f\u83dc\u4e00\u789f]",
+      "address": "9 Circular Rd, Singapore 049365",
+      "location": {
+        "latitude": 1.2878262999999999,
+        "longitude": 103.84901389999999
+      },
+      "rating": 5,
+      "description": "",
+      "hours": [
+        "Monday: 11:00 AM - 3:00 PM, 5:00 - 10:00 PM",
+        "Tuesday: 11:00 AM - 3:00 PM, 5:00 - 10:00 PM",
+        "Wednesday: 11:00 AM - 3:00 PM, 5:00 - 10:00 PM",
+        "Thursday: 11:00 AM - 3:00 PM, 5:00 - 10:00 PM",
+        "Friday: 11:00 AM - 3:00 PM, 5:00 - 11:00 PM",
+        "Saturday: 11:00 AM - 11:00 PM",
+        "Sunday: 11:00 AM - 11:00 PM"
+      ],
+      "price_level": "",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "maps_url": "https://maps.google.com/?cid=4725097423592590777"
+    },
+    {
+      "id": "ChIJKTIPnj0Z2jERWmsLzZYcHHY",
+      "name": "Seafood by the River \u6ee8\u6d77\u6e7e\u6e14\u6751",
+      "address": "45 Boat Quay, Singapore 049834",
+      "location": {
+        "latitude": 1.2868560999999998,
+        "longitude": 103.8495332
+      },
+      "rating": 4.8,
+      "description": "",
+      "hours": [
+        "Monday: 11:30 AM - 12:00 AM",
+        "Tuesday: 11:30 AM - 12:00 AM",
+        "Wednesday: 11:30 AM - 12:00 AM",
+        "Thursday: 11:30 AM - 12:00 AM",
+        "Friday: 11:30 AM - 12:00 AM",
+        "Saturday: 11:30 AM - 12:00 AM",
+        "Sunday: 11:30 AM - 12:00 AM"
+      ],
+      "price_level": "",
+      "types": [
+        "seafood_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "maps_url": "https://maps.google.com/?cid=8510708829834144602"
+    },
+    {
+      "id": "ChIJKavznCQS2jERgjh4tKUdjfY",
+      "name": "Yummy Bros",
+      "address": "180 Cecil St, Bangkok Bank Building, Singapore 069546",
+      "location": {
+        "latitude": 1.2792514,
+        "longitude": 103.8477784
+      },
+      "rating": 4.8,
+      "description": "",
+      "hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "price_level": "",
+      "types": [
+        "meal_delivery",
+        "food_delivery",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "maps_url": "https://maps.google.com/?cid=17765888702581061762"
+    },
+    {
+      "id": "ChIJ33v3PKcZ2jERNogFrxUdKEo",
+      "name": "National Kitchen by Violet Oon",
+      "address": "1 St Andrew's Rd, #02\u201301 National Gallery, Singapore 178957",
+      "location": {
+        "latitude": 1.2906056,
+        "longitude": 103.8519111
+      },
+      "rating": 4.5,
+      "description": "",
+      "hours": [
+        "Monday: 12:00 - 3:00 PM, 6:00 - 10:30 PM",
+        "Tuesday: 12:00 - 3:00 PM, 6:00 - 10:30 PM",
+        "Wednesday: 12:00 - 3:00 PM, 6:00 - 10:30 PM",
+        "Thursday: 12:00 - 3:00 PM, 6:00 - 10:30 PM",
+        "Friday: 12:00 - 5:00 PM, 6:00 - 10:30 PM",
+        "Saturday: 12:00 - 5:00 PM, 6:00 - 10:30 PM",
+        "Sunday: 12:00 - 5:00 PM, 6:00 - 10:30 PM"
+      ],
+      "price_level": "PRICE_LEVEL_EXPENSIVE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "maps_url": "https://maps.google.com/?cid=5343552936842987574"
+    },
+    {
+      "id": "ChIJYy_d6MgZ2jER6BkMieGTirE",
+      "name": "Kappo Shunsui",
+      "address": "17 Hongkong St, #01-01, Singapore 059660",
+      "location": {
+        "latitude": 1.2877813,
+        "longitude": 103.8473384
+      },
+      "rating": 4.8,
+      "description": "",
+      "hours": [
+        "Monday: 11:30 AM - 3:00 PM, 5:30 - 11:00 PM",
+        "Tuesday: 11:30 AM - 3:00 PM, 5:30 - 11:00 PM",
+        "Wednesday: 11:30 AM - 3:00 PM, 5:30 - 11:00 PM",
+        "Thursday: 11:30 AM - 3:00 PM, 5:30 - 11:00 PM",
+        "Friday: 11:30 AM - 3:00 PM, 5:30 - 11:00 PM",
+        "Saturday: 5:30 - 11:00 PM",
+        "Sunday: 5:30 - 11:00 PM"
+      ],
+      "price_level": "",
+      "types": [
+        "japanese_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "maps_url": "https://maps.google.com/?cid=12793200288375511528"
+    },
+    {
+      "id": "ChIJ_5tWSqYZ2jER7454RZJufzQ",
+      "name": "OPVS 2 Oyster Bar & Grill",
+      "address": "57A Boat Quay, Singapore 049846",
+      "location": {
+        "latitude": 1.2873537,
+        "longitude": 103.8493247
+      },
+      "rating": 4.8,
+      "description": "",
+      "hours": [
+        "Monday: 12:00 - 11:30 PM",
+        "Tuesday: 12:00 - 11:30 PM",
+        "Wednesday: 12:00 - 11:30 PM",
+        "Thursday: 12:00 - 11:30 PM",
+        "Friday: 12:00 - 11:30 PM",
+        "Saturday: 5:00 - 11:30 PM",
+        "Sunday: Closed"
+      ],
+      "price_level": "",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "maps_url": "https://maps.google.com/?cid=3782863786524315375"
+    },
+    {
+      "id": "ChIJKS9S8goZ2jERFMO0loxJRYs",
+      "name": "Fangko + Coffee And Beer",
+      "address": "20 Hongkong St, #01-03, Singapore 059663",
+      "location": {
+        "latitude": 1.2878162,
+        "longitude": 103.8470794
+      },
+      "rating": 4.6,
+      "description": "",
+      "hours": [
+        "Monday: 7:00 AM - 5:00 PM",
+        "Tuesday: 7:00 AM - 7:00 PM",
+        "Wednesday: 7:00 AM - 7:00 PM",
+        "Thursday: 7:00 AM - 7:00 PM",
+        "Friday: 7:00 AM - 7:00 PM",
+        "Saturday: 7:00 AM - 5:00 PM",
+        "Sunday: 7:00 AM - 5:00 PM"
+      ],
+      "price_level": "PRICE_LEVEL_INEXPENSIVE",
+      "types": [
+        "cafe",
+        "brunch_restaurant",
+        "breakfast_restaurant",
+        "indonesian_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "maps_url": "https://maps.google.com/?cid=10035508212837696276"
+    },
+    {
+      "id": "ChIJG8ZRPDIZ2jERH2_0a9gVJuM",
+      "name": "Moh Swee Kee(\u83ab\u745e\u8bb0) High Street Centre",
+      "address": "1 N Bridge Rd, B1-11, Singapore 179094",
+      "location": {
+        "latitude": 1.289869,
+        "longitude": 103.8496357
+      },
+      "rating": 4.7,
+      "description": "",
+      "hours": [
+        "Monday: 8:00 AM - 7:00 PM",
+        "Tuesday: 8:00 AM - 7:00 PM",
+        "Wednesday: 8:00 AM - 7:00 PM",
+        "Thursday: 8:00 AM - 7:00 PM",
+        "Friday: 8:00 AM - 7:00 PM",
+        "Saturday: 10:00 AM - 7:00 PM",
+        "Sunday: 10:00 AM - 5:00 PM"
+      ],
+      "price_level": "",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "maps_url": "https://maps.google.com/?cid=16367793914992946975"
+    },
+    {
+      "id": "ChIJz467uSEZ2jERd6bgM7zCILo",
+      "name": "Brasserie Astoria Singapore",
+      "address": "11 Empress Pl, Located inside Victoria Theatre & Concert Hall, Singapore 179558",
+      "location": {
+        "latitude": 1.288621,
+        "longitude": 103.851462
+      },
+      "rating": 4.4,
+      "description": "",
+      "hours": [
+        "Monday: 12:00 - 2:30 PM, 6:00 - 9:30 PM",
+        "Tuesday: 12:00 - 2:30 PM, 6:00 - 9:30 PM",
+        "Wednesday: 12:00 - 2:30 PM, 6:00 - 9:30 PM",
+        "Thursday: 12:00 - 2:30 PM, 6:00 - 9:30 PM",
+        "Friday: 12:00 - 2:30 PM, 3:00 - 10:30 PM",
+        "Saturday: 3:00 - 10:30 PM",
+        "Sunday: 6:00 - 9:30 PM"
+      ],
+      "price_level": "",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "maps_url": "https://maps.google.com/?cid=13411933803889337975"
+    }
+  ]
+}

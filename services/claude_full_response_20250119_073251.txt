@@ -1,0 +1,229 @@
+{
+    "days": [
+        {
+            "date": "2025-02-02",
+            "activities": [
+                {
+                    "id": "ChIJMxZ-kwQZ2jERdsqftXeWCWI",
+                    "name": "Gardens by the Bay",
+                    "start": "09:00",
+                    "duration": "3 hours",
+                    "type": "activity"
+                },
+                {
+                    "id": "ChIJBTYg1g4Z2jERp_MBbu5erWY",
+                    "name": "Merlion Park",
+                    "start": "12:30",
+                    "duration": "1 hour",
+                    "type": "activity"
+                },
+                {
+                    "id": "ChIJzUZNrgsZ2jER2epSYaG6Gyg",
+                    "name": "Restaurant Ibid",
+                    "start": "14:00",
+                    "duration": "2 hours",
+                    "type": "restaurant"
+                }
+            ]
+        },
+        {
+            "date": "2025-02-03",
+            "activities": [
+                {
+                    "id": "ChIJT4lHCgMZ2jERloDE6WmkdMk",
+                    "name": "Supertree Grove",
+                    "start": "09:00",
+                    "duration": "2 hours",
+                    "type": "activity"
+                },
+                {
+                    "id": "ChIJzVHFNqkZ2jERboLN2YrltH8",
+                    "name": "Singapore Flyer",
+                    "start": "11:30",
+                    "duration": "1 hour",
+                    "type": "activity"
+                },
+                {
+                    "id": "ChIJRcflqKQZ2jERuY1ZdhLrkkE",
+                    "name": "XYCD @Circular Road [\u5c0f\u83dc\u4e00\u789f]",
+                    "start": "13:00",
+                    "duration": "2 hours",
+                    "type": "restaurant"
+                }
+            ]
+        },
+        {
+            "date": "2025-02-04",
+            "activities": [
+                {
+                    "id": "ChIJvWDbfRwa2jERgNnTOpAU3-o",
+                    "name": "Singapore Botanic Gardens",
+                    "start": "09:00",
+                    "duration": "3 hours",
+                    "type": "activity"
+                },
+                {
+                    "id": "ChIJKTIPnj0Z2jERWmsLzZYcHHY",
+                    "name": "Seafood by the River \u6ee8\u6d77\u6e7e\u6e14\u6751",
+                    "start": "12:30",
+                    "duration": "2 hours",
+                    "type": "restaurant"
+                },
+                {
+                    "id": "ChIJnXwAOKAZ2jERAs-MHs1aDgI",
+                    "name": "Clarke Quay",
+                    "start": "15:00",
+                    "duration": "2 hours",
+                    "type": "activity"
+                }
+            ]
+        },
+        {
+            "date": "2025-02-05",
+            "activities": [
+                {
+                    "id": "ChIJOeEf9S2vewIRM0B9a06CKwg",
+                    "name": "SkyPark Observation Deck",
+                    "start": "10:00",
+                    "duration": "1 hour",
+                    "type": "activity"
+                },
+                {
+                    "id": "ChIJKavznCQS2jERgjh4tKUdjfY",
+                    "name": "Yummy Bros",
+                    "start": "12:00",
+                    "duration": "1 hour",
+                    "type": "restaurant"
+                },
+                {
+                    "id": "ChIJVSYjJKIZ2jERpRFinATD52s",
+                    "name": "Fort Canning Park",
+                    "start": "14:00",
+                    "duration": "2 hours",
+                    "type": "activity"
+                }
+            ]
+        },
+        {
+            "date": "2025-02-06",
+            "activities": [
+                {
+                    "id": "ChIJWbbHWvAb2jERpIJ56UdMj_E",
+                    "name": "Fort Siloso",
+                    "start": "09:00",
+                    "duration": "3 hours",
+                    "type": "activity"
+                },
+                {
+                    "id": "ChIJYy_d6MgZ2jER6BkMieGTirE",
+                    "name": "Kappo Shunsui",
+                    "start": "12:30",
+                    "duration": "2 hours",
+                    "type": "restaurant"
+                }
+            ]
+        },
+        {
+            "date": "2025-02-07",
+            "activities": [
+                {
+                    "id": "ChIJnWdQKQQZ2jERScXuKeFHyIE",
+                    "name": "ArtScience Museum",
+                    "start": "10:00",
+                    "duration": "2 hours",
+                    "type": "activity"
+                },
+                {
+                    "id": "ChIJ_5tWSqYZ2jER7454RZJufzQ",
+                    "name": "OPVS 2 Oyster Bar & Grill",
+                    "start": "13:00",
+                    "duration": "2 hours",
+                    "type": "restaurant"
+                },
+                {
+                    "id": "ChIJFQzeR6cZ2jERgM6--iWeY-U",
+                    "name": "National Gallery Singapore",
+                    "start": "15:30",
+                    "duration": "2 hours",
+                    "type": "activity"
+                }
+            ]
+        },
+        {
+            "date": "2025-02-08",
+            "activities": [
+                {
+                    "id": "ChIJPYrvewEZ2jERK-pztVWcDig",
+                    "name": "Flower Dome",
+                    "start": "09:00", 
+                    "duration": "2 hours",
+                    "type": "activity"
+                },
+                {
+                    "id": "ChIJKS9S8goZ2jERFMO0loxJRYs",
+                    "name": "Fangko + Coffee And Beer",
+                    "start": "11:30",
+                    "duration": "1 hour",
+                    "type": "cafe"
+                },
+                {
+                    "id": "ChIJG8ZRPDIZ2jERH2_0a9gVJuM",
+                    "name": "Moh Swee Kee(\u83ab\u745e\u8bb0) High Street Centre",
+                    "start": "13:00",
+                    "duration": "1 hour",
+                    "type": "restaurant"
+                }
+            ]
+        },
+        {
+            "date": "2025-02-09",
+            "activities": [
+                {
+                    "id": "ChIJD1u-EaMZ2jERaLhNfFkR45I",
+                    "name": "National Museum of Singapore",
+                    "start": "10:00",
+                    "duration": "3 hours",
+                    "type": "activity"
+                },
+                {
+                    "id": "ChIJPzQ2GKEZ2jERnUTk4vYhg34",
+                    "name": "Civil Defence Heritage Gallery",
+                    "start": "14:00",
+                    "duration": "1 hour",
+                    "type": "activity"
+                }
+            ]
+        },
+        {
+            "date": "2025-02-10",
+            "activities": [
+                {
+                    "id": "ChIJZXLHt_AZ2jERHp7HWpnRbuo",
+                    "name": "Brooklyn Bar",
+                    "start": "19:00",
+                    "duration": "3 hours",
+                    "type": "activity"
+                }
+            ]
+        },
+        {
+            "date": "2025-02-11",
+            "activities": [
+                {
+                    "id": "ChIJ83SVew0Z2jERsfl0iOB4Pco",
+                    "name": "My Awesome Cafe",
+                    "start": "10:00",
+                    "duration": "2 hours",
+                    "type": "cafe"
+                },
+                {
+                    "id": "ChIJz467uSEZ2jERd6bgM7zCILo",
+                    "name": "Brasserie Astoria Singapore",
+                    "start": "13:00",
+                    "duration": "2 hours", 
+                    "type": "restaurant"
+                }
+            ]
+        }
+    ]
+}
