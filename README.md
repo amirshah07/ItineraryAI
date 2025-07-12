@@ -4,7 +4,7 @@ Welcome to ItineraryAI, an intelligent travel planning platform that generates p
 
 ## **🎯 Overview**
 
-ItineraryAI is a full-stack web application that creates customized travel itineraries using Claude AI and Google Places API. Plan solo adventures or coordinate group trips with friends, all while discovering the perfect balance of activities, dining, and cultural experiences tailored to your preferences.
+ItineraryAI is a full-stack web application that creates customized travel itineraries using Anthropic's Claude API and Google Places API. Plan solo adventures or coordinate group trips with friends, all while discovering the perfect balance of activities, dining, and cultural experiences tailored to your preferences.
 
 **Why ItineraryAI?**
 * 🤖 AI-powered itinerary generation in seconds
@@ -22,7 +22,7 @@ ItineraryAI is a full-stack web application that creates customized travel itine
 * Discover tourist attractions, restaurants, and hidden gems
 
 ### **AI-Powered Planning**
-* Natural language processing with Claude AI
+* Natural language processing with Anthropic's Claude API
 * Intelligent scheduling based on location proximity
 * Cultural and dietary preference considerations
 * Real-time place data from Google Places API
